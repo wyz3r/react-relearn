@@ -1,0 +1,25 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<FirsApp/> component Should be snapshot match 1`] = `
+<div>
+  <h1
+    data-testid="test-title"
+  >
+     
+    hola, soy Goku
+     
+  </h1>
+  <p>
+     
+    esto es sub
+  </p>
+  <p>
+     
+    esto es sub
+  </p>
+  <p>
+     
+    no hay name 
+  </p>
+</div>
+`;
